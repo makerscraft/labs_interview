@@ -20,7 +20,7 @@ So that we only evaluate your fitness **solely** based on the code, we have
 assigned you a participant ID.  Within your git directory ensure you change
 your git user name and git user email to be these anonymized data:
 
-`git config user.email "PARTICIPANT_##@example.com"`
+`git config user.email "PARTICIPANT_##@example.com"`  
 `git config user.name "PARTICIPANT_##"`
 
 You can verify these changes have been effective by using `git log` to show a
