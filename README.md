@@ -11,8 +11,8 @@ You will be given 2.5 hours to complete these challenges as best you can.
 Budgeting the time you give each section is left solely to your discretion.
 You may use the Internet to understand any vocabulary or to look up API
 references.  Also an implicit test in this assignment is of whether you are
-able to follow text directions.  Take time to make sure you follow
-instructions.
+able to follow written directions.  Take your time and don't skim or skip 
+over anything.
 
 ## Setup
 
