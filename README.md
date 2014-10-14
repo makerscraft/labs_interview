@@ -29,8 +29,10 @@ commit you made: it should have these two values set correctly.
 ## Decomposing Client Requirements
 
 Please turn the following passage into a series of user stories.  Associated
-with each story you should assign a point value of 1, 3, 5, 8.  1 represents a
-"simple" story on this scale, 8 represents a "hard" problem on this scale.
+with each story you should assign a point value of 1, 3, 5, 8.  Story points
+represent _difficulty_, not time, a 3 point story represents the difficulty
+of the roman numerals challenge so an 8 point story should be roughly three
+times as difficult.
 
 We've given you a transcript from Joe Neckbeard, your stakeholder, about what
 they need.
