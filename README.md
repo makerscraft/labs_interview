@@ -4,8 +4,8 @@
 
 Our interview process is designed to assess your fitness for the consulting
 workflow.  We have identified three primary functions within this workflow:
-destructuring client requests, debugging, and contributing to an active code
-base.
+decomposing client requirements into tasks, debugging, and contributing to an 
+active codebase.
 
 You will be given 2.5 hours to complete these challenges as best you can.
 Budgeting the time you give each section is left solely to your discretion.
