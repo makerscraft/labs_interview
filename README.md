@@ -26,7 +26,7 @@ your git user name and git user email to be these anonymized data:
 You can verify these changes have been effective by using `git log` to show a
 commit you made: it should have these two values set correctly.
 
-## Processing Client Requests
+## Decomposing Client Requirements
 
 Please turn the following passage into a series of user stories.  Associated
 with each story you should assign a point value of 1, 3, 5, 8.  1 represents a
