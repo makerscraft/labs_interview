@@ -4,15 +4,15 @@
 
 Our interview process is designed to assess your fitness for the consulting
 workflow.  We have identified three primary functions within this workflow:
-destructuring client requests, debugging, and contributing to an active code
-base.
+decomposing client requirements into tasks, debugging, and contributing to an 
+active codebase.
 
 You will be given 2.5 hours to complete these challenges as best you can.
 Budgeting the time you give each section is left solely to your discretion.
 You may use the Internet to understand any vocabulary or to look up API
 references.  Also an implicit test in this assignment is of whether you are
-able to follow text directions.  Take time to make sure you follow
-instructions.
+able to follow written directions.  Take your time and don't skim or skip 
+over anything.
 
 ## Setup
 
@@ -26,11 +26,13 @@ your git user name and git user email to be these anonymized data:
 You can verify these changes have been effective by using `git log` to show a
 commit you made: it should have these two values set correctly.
 
-## Processing Client Requests
+## Decomposing Client Requirements
 
 Please turn the following passage into a series of user stories.  Associated
-with each story you should assign a point value of 1, 3, 5, 8.  1 represents a
-"simple" story on this scale, 8 represents a "hard" problem on this scale.
+with each story you should assign a point value of 1, 3, 5, 8.  Story points
+represent _difficulty_, not time, a 3 point story represents the difficulty
+of the roman numerals challenge so an 8 point story should be roughly three
+times as difficult.
 
 We've given you a transcript from Joe Neckbeard, your stakeholder, about what
 they need.
